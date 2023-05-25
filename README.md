@@ -8,7 +8,7 @@
 
 [![ArthurSilvaSS GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ArthurSilvaSS&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ArthurSilvaSS/github-readme-stats#gh-dark-mode-only)
 [![ArthurSilvaSS GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ArthurSilvaSS&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/ArthurSilvaSS/github-readme-stats#gh-light-mode-only)
-### Linguagens que utilizo
+### Linguagens que utilizo 👇
 [![Top Langs stats-Dark ](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSilvaSS&layout=compact)](https://github.com/ArthurSilvaSS/github-readme-stats)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
