@@ -6,10 +6,9 @@
  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/331596810047193099)
  [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/skytuka/)
 
-[![ArthurSilvaSS GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ArthurSilvaSS&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ArthurSilvaSS/github-readme-stats#gh-dark-mode-only)
-[![ArthurSilvaSS GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ArthurSilvaSS&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/ArthurSilvaSS/github-readme-stats#gh-light-mode-only)
+[![ArthurSilvaSS GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ArthurSilvaSS&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ArthurSilvaSS)
 ### Linguagens que utilizo 👇
-[![Top Langs stats-Dark ](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSilvaSS&layout=compact)](https://github.com/ArthurSilvaSS/github-readme-stats)
+[![Top Langs stats-Dark ](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSilvaSS&layout=compact)](https://github.com/ArthurSilvaSS)
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
