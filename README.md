@@ -1,4 +1,4 @@
-# Olá! eu sou o Arthur 😎  
+# Olá! eu sou o Arthur  
 ### Seja bem-vindo ao meu perfil !!
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-silva-413208275/)
