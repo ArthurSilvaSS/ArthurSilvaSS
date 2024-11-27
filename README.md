@@ -6,7 +6,8 @@
  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/331596810047193099)
  [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/skytuka/)
 
-[![ArthurSilvaSS GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ArthurSilvaSS&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ArthurSilvaSS)
+[![ArthurSilvaSS GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+](https://github.com/ArthurSilvaSS)
 ### Linguagens que utilizo 👇
 [![Top Langs stats-Dark ](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSilvaSS&layout=compact)](https://github.com/ArthurSilvaSS)
 
