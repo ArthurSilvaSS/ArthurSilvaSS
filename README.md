@@ -1,6 +1,7 @@
-# Olá! eu sou o Arthur  
-### Seja bem-vindo ao meu perfil !!
+# 🧑‍💻 Arthur Silva 
+> Desenvolvedora FullStack
 
+# 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-silva-413208275/)
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthursilva.ss/)
  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/331596810047193099)
