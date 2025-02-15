@@ -1,7 +1,7 @@
-# 🧑‍💻 Arthur Silva 
-> Desenvolvedora FullStack
 
-# Sobre min
+# 🧑‍💻 Arthur Silva 
+![image](https://github.com/user-attachments/assets/31d25ec2-4b6e-4e19-ace0-c2647926d99c)
+
 Sou um **Desenvolvedor Full-Stack** em formação, atualmente cursando Análise e Desenvolvimento de Sistemas, com uma base sólida proporcionada pelo meu curso técnico em Desenvolvimento para Web. Minha experiência abrange o uso de tecnologias como **C#**, **.NET**, **Angular** e **TypeScript**, e trabalho com bancos de dados como **PostgreSQL** e **MySQL**.
 
 [![ArthurSilvaSS GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ArthurSilvaSS&show_icons=true&theme=swift)](https://github.com/ArthurSilvaSS)
